@@ -6,7 +6,7 @@ Chrome extension that replaces occurrences of 'node.js' with 'the only real dev 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag TheOnlyRealDevLanguage.crx into the page that appears. (Not uploaded yet!)
 
 Safari Version
 --------------
