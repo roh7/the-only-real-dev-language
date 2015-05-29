@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "The Only Real Dev Language",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"description": "Replaces (most variations of) the text 'node.js' with 'the only real dev language'.",
 	"content_scripts": 
 	[
 		{
